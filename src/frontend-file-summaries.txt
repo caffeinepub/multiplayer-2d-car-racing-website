@@ -1,0 +1,11 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, theme provider, and route definitions for home, race, and leaderboard pages.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for all backend operations including tracks, players, race results, and leaderboard with proper state invalidation.",
+  "frontend/src/components/Header.tsx": "Navigation header component with logo and links to home and leaderboard pages.",
+  "frontend/src/components/Footer.tsx": "Footer component with attribution and caffeine.ai branding.",
+  "frontend/src/pages/HomePage.tsx": "Home page with player profile creation, track selection grid, and feature highlights with fixed TypeScript type handling for track difficulty enum.",
+  "frontend/src/pages/RacePage.tsx": "Race page that manages race state, displays pre-race instructions, and shows post-race results with time and position.",
+  "frontend/src/pages/LeaderboardPage.tsx": "Leaderboard page displaying top 100 players ranked by performance with stats and position indicators.",
+  "frontend/src/components/RaceGame.tsx": "Canvas-based 2D racing game component with player controls, AI opponents, lap tracking, and checkpoint system using requestAnimationFrame.",
+  "frontend/src/index.css": "Global styles with OKLCH color system customized for racing theme with vibrant accent colors for light and dark modes."
+}
